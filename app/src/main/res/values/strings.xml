@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yet Another Gallery</string>
+    <string name="hint">Title</string>
+</resources>
